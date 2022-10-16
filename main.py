@@ -15,6 +15,7 @@ from time import sleep
 import locale
 import sys
 #kak commit suka
+
 art_1=text2art("ABC",font='block')
 print(art_1)
 url="https://stackoverflow.com/questions/27092833/unicodeencodeerror-charmap-codec-cant-encode-characters"
