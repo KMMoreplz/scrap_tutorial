@@ -79,6 +79,7 @@ for i in range(len(tripLength)):
 #-----------------------------------------------------------
 
 
+
 #regNumber----tripLength----allTimeInTrip----Stay(>5m)--Stop
 
 dataTime = datetime.datetime.strptime(startOfTrip[1].text.split(" ")[0],'%Y-%m-%d')
